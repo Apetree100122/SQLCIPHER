@@ -1,5 +1,5 @@
 ---
-name: Bug report
+name: issue/Bug report
 about: 'help us improve submit a bug report '
 title: 'bug '
 labels: bug, duplicate, good first issue, invalid, question
